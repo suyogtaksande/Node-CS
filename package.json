@@ -1,0 +1,23 @@
+{
+  "name": "node-cs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suyogtaksande/Node-CS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suyogtaksande/Node-CS/issues"
+  },
+  "homepage": "https://github.com/suyogtaksande/Node-CS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
